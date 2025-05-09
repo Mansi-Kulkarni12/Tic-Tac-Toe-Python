@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe - Python (Tkinter)
 
-This is a simple but fully functional **Tic Tac Toe** (Noughts and Crosses) game developed using **Python** and the **Tkinter** GUI library. The game features a clean interface, score tracking, and allows two players to compete turn by turn.
+This is a simple but fully functional **Tic Tac Toe** game developed using **Python** and the **Tkinter** GUI library. The game features a clean interface, score tracking, and allows two players to compete turn by turn.
 
 ---
 
